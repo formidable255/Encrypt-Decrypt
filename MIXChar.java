@@ -32,10 +32,7 @@ public final class MIXChar {
     
     /**Stores the mixchar value.*/
     private int value;
-    
-    
-    
-    
+
     /**
      * Constructs an object of type MIXChar.
      * @param value an integer
