@@ -29,7 +29,6 @@ public final class MIXChar {
             '.', ',', '(', ')', '+', '-', '*', '/', '=', '$', '<',
             '>', '@', ';', ':', '\''};
     
-    
     /**Stores the mixchar value.*/
     private int value;
 
